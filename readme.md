@@ -1,5 +1,5 @@
-# Dx the lecture (No. 01).
+# Class02
 
-- このリポジトリに講義資料とサンプルコードが全て保存されている．
+- JavaScript 2 回と PHP 2 回の講義があり，JavaScript 2 回の講義資料が展開されている状態．
 
-- 新しいクラスが開講するときは，このリポジトリをクローンして各クラスのリポジトリを作成することで一通りの講義資料とサンプルコードを用意することができる．
+- [https://taroosg.github.io/dx-the-lecture-01-class02/](https://taroosg.github.io/dx-the-lecture-01-class02/)
